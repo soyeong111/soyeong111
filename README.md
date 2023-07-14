@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=FF9292&height=250&section=header&text=I'm%20SoYeong!&fontSize=70&fontColor=FFFFFF&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=4942E4&height=250&section=header&text=I'm%20SoYeong!&fontSize=70&fontColor=FFFFFF&animation=fadeIn)
 
 ## 프론트엔드 개발자 박소영입니다! 👋🏻
 
@@ -21,4 +21,4 @@ https://github.com/huhjs/BookSpace
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=soyeong111&show_icons=true&theme=transparent)
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=FFB4B4&height=200&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=C4B0FF&height=200&section=footer)
