@@ -10,4 +10,4 @@
 
 <h2 align="center">⋆｡ﾟ✶°💜 CONTACT 💜⋆｡ﾟ✶°</h2>
 
-<p align="center"><a href="https://www.notion.so/be7ba7d1202d45b09687b5a14e44a771"><img src="https://img.shields.io/badge/My tech blog-A9BCF5?style=flat-square&logo=GitHub Sponsors&logoColor=white&link=https://www.notion.so/be7ba7d1202d45b09687b5a14e44a771"/></a>  <a href="mailto:wonjongah@gmail.com"><img src="https://img.shields.io/badge/Gmail-D0A9F5?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wonjongah@gmail.com"/></a></p>
+<p align="center"><a href="https://www.notion.so/be7ba7d1202d45b09687b5a14e44a771"><img src="https://img.shields.io/badge/My Notion-A9BCF5?style=flat-square&logo=GitHub Sponsors&logoColor=white&link=https://www.notion.so/be7ba7d1202d45b09687b5a14e44a771"/></a>  <a href="mailto:so.yeong.gooogle@gmail.com"><img src="https://img.shields.io/badge/Gmail-D0A9F5?style=flat-square&logo=Gmail&logoColor=white&link=mailto:so.yeong.gooogle@gmail.com"/></a></p>
